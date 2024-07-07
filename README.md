@@ -6,7 +6,7 @@
   <a aria-label="FORK" href="https://github.com/AbuBakarTechInfo/Secktor-bot/fork" target="_blank">
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/AbuBakarTechInfo/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@AbuBakarTechInfo" target="_blank">
+  <a aria-label="AbuBakar_Md is free to use" href="https://youtube.com/@AbuBakarTechInfo" target="_blank">
     <img alt="AbuBakarTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="[AbuBakarTechInfo] :: Visitor's Count" /></p>
@@ -46,7 +46,7 @@ RENDER PROCESS:
 
 - WASocket Options
 ```js
-    let Smd =SuhailWASocket({ 
+    let Smd =AbuBakarWASocket({ 
         printQRInTerminal: false,   // make it false if you're using web
         logger: pino({ level: "silent" }),     // make it silent to prevent baileys buffering
         browser: Browsers.baileys("Desktop"),  // awailable browsers : ubuntu, macOS, baileys.
